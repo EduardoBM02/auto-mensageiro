@@ -13,7 +13,6 @@ Um projeto em Python para envio automatizado de mensagens via WhatsApp Web ou e-
 - Arquivos (.pdf, .docx, .xlsx...)
 - Interface de linha de comando (CLI)
 - Leitura de contatos a partir de um arquivo .csv
-- 
 ---
 ##📁 Estrutura do Projeto
 
@@ -36,7 +35,6 @@ Um projeto em Python para envio automatizado de mensagens via WhatsApp Web ou e-
 - Python 3.8 ou superior
 - Google Chrome ou Microsoft Edge instalado
 - Conta de e-mail com acesso a senha de aplicativo (Gmail, por exemplo)
-- 
 ---
 ##🧪 Instalação
 
