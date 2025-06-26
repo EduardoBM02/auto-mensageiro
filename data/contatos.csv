@@ -1,0 +1,4 @@
+nome,numero,email,mensagem,imagem,anexos
+João Silva,5581999999999,joao@email.com,"Olá João! Segue em anexo o relatório.",imgs/joao.jpg,arquivos/relatorio.xlsx
+Maria Souza,81 988888888,maria@email.com,"Bom dia, Maria! Veja os documentos em anexo.",,"arquivos/contrato.docx;arquivos/info.pdf"
+Lucas Costa,55 (81) 97777-7777,lucas@email.com,"Segue os documentos solicitados.",imgs/lucas.png,

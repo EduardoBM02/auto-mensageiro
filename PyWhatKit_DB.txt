@@ -1,0 +1,169 @@
+Date: 16/6/2025
+Time: 15:58
+Phone Number: +5581985297208
+Message: Olá! Esta é uma mensagem automática via WhatsApp.
+--------------------
+Date: 16/6/2025
+Time: 16:0
+Phone Number: +5581979080480
+Message: Olá! Esta é uma mensagem automática via WhatsApp enviada com Python.
+--------------------
+Date: 16/6/2025
+Time: 16:4
+Phone Number: +5581979080480
+Message: teste 2, com imagem
+--------------------
+Date: 16/6/2025
+Time: 16:13
+Phone Number: +5581979080480
+Image: C:\Users\I002701\Documents\testes\hello-world-e-uma-palavra-simples-para-a-primeira-programacao-do-programador_48644-298.jpg
+Caption: agora acho que vai
+--------------------
+Date: 17/6/2025
+Time: 15:14
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Documents\testes\hello-world-e-uma-palavra-simples-para-a-primeira-programacao-do-programador_48644-298.jpg
+Caption: testando codigo dnv
+--------------------
+Date: 17/6/2025
+Time: 15:14
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Documents\testes\hello-world-e-uma-palavra-simples-para-a-primeira-programacao-do-programador_48644-298.jpg
+Caption: testando codigo dnv
+--------------------
+Date: 17/6/2025
+Time: 15:22
+Phone Number: +5581985297208
+Message: deu certo
+--------------------
+Date: 17/6/2025
+Time: 15:32
+Phone Number: +5581985297208
+Message: deu certo
+--------------------
+Date: 17/6/2025
+Time: 15:34
+Phone Number: +5581985297208
+Message: deu certo
+--------------------
+Date: 17/6/2025
+Time: 15:38
+Phone Number: +5581985297208
+Message: e tbm n funciona pra mais de um contato
+--------------------
+Date: 17/6/2025
+Time: 15:46
+Phone Number: +5581985297208
+Message: Olá Igor, esta é uma mensagem automática de teste.
+--------------------
+Date: 17/6/2025
+Time: 15:47
+Phone Number: +5581979080480
+Message: Olá Bruna, esta é uma mensagem automática de teste.
+--------------------
+Date: 17/6/2025
+Time: 16:17
+Phone Number: +5581985297208
+Message: Agora to testando uma interface CLI
+--------------------
+Date: 17/6/2025
+Time: 16:18
+Phone Number: +5581979080480
+Message: Agora to testando uma interface CLI
+--------------------
+Date: 20/6/2025
+Time: 15:27
+Phone Number: +5581985297208
+Message: testando enviar mensagem
+--------------------
+Date: 20/6/2025
+Time: 15:28
+Phone Number: +5581979080480
+Message: testando enviar mensagem
+--------------------
+Date: 20/6/2025
+Time: 15:32
+Phone Number: +5581985297208
+Message: mensagem automatica Igor
+--------------------
+Date: 20/6/2025
+Time: 15:33
+Phone Number: +5581979080480
+Message: mensagem automatica Bruna
+--------------------
+Date: 26/6/2025
+Time: 13:10
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Pictures\a01c581b-5125-412f-a1c3-77e205bf059d.jpg
+Caption: 
+--------------------
+Date: 26/6/2025
+Time: 13:11
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Pictures\a01c581b-5125-412f-a1c3-77e205bf059d.jpg
+Caption: 
+--------------------
+Date: 26/6/2025
+Time: 13:12
+Phone Number: +5581979080480
+Message: boa tarde bruna
+--------------------
+Date: 26/6/2025
+Time: 13:13
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Pictures\a01c581b-5125-412f-a1c3-77e205bf059d.jpg
+Caption: 
+--------------------
+Date: 26/6/2025
+Time: 13:13
+Phone Number: +5581979080480
+Message: boa tarde bruna
+--------------------
+Date: 26/6/2025
+Time: 13:30
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 131630.png
+Caption: terminei as duas primeiras sessões do rpg
+--------------------
+Date: 26/6/2025
+Time: 13:31
+Phone Number: +5581979080480
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 131630.png
+Caption: terminei as duas primeiras sessões do rpg
+--------------------
+Date: 26/6/2025
+Time: 13:39
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 133859.png
+Caption: battlerfield sendo vendido quase de graça
+--------------------
+Date: 26/6/2025
+Time: 13:39
+Phone Number: +5581979080480
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 133859.png
+Caption: battlerfield sendo vendido quase de graça
+--------------------
+Date: 26/6/2025
+Time: 13:45
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 133859.png
+Caption: Battlefield sendo vendido quase de graça
+--------------------
+Date: 26/6/2025
+Time: 13:46
+Phone Number: +5581996806675
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 133859.png
+Caption: Battlefield sendo vendido quase de graça
+--------------------
+Date: 26/6/2025
+Time: 13:52
+Phone Number: +5581985297208
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 133859.png
+Caption: Battlefield ta quase de graça
+--------------------
+Date: 26/6/2025
+Time: 13:53
+Phone Number: +5581999432195
+Image: C:\Users\I002701\Pictures\Screenshots\Captura de tela 2025-06-26 133859.png
+Caption: Battlefield ta quase de graça
+--------------------
