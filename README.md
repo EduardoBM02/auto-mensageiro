@@ -22,7 +22,18 @@ Leitura de contatos a partir de um arquivo .csv
 
 📁 Estrutura do Projeto
 
-<pre><code>## 📁 Estrutura do Projeto ``` auto_mensageiro/ ├── main.py # Interface CLI ├── config.py # Dados de login (NÃO subir para o GitHub) ├── requirements.txt # Dependências do projeto ├── README.md # Instruções e documentação ├── data/ │ └── contatos.csv # Arquivo de exemplo com os contatos └── utils/ ├── whatsapp_sender.py ├── email_sender.py └── formatadores.py ``` </code></pre>
+<pre><code>## 📁 Estrutura do Projeto ``` 
+  auto_mensageiro/ 
+  ├── main.py # Interface CLI 
+  ├── config.py # Dados de login (NÃO subir para o GitHub) 
+  ├── requirements.txt # Dependências do projeto 
+  ├── README.md # Instruções e documentação 
+  ├── data/ 
+  │     └── contatos.csv # Arquivo de exemplo com os contatos 
+  └── utils/ 
+        ├── whatsapp_sender.py 
+        ├── email_sender.py 
+        └── formatadores.py ``` </code></pre>
 
 ⚙️ Requisitos Básicos
 
