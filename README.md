@@ -1,9 +1,9 @@
-##📬 Auto Mensageiro
+## 📬 Auto Mensageiro
 
 Um projeto em Python para envio automatizado de mensagens via WhatsApp Web ou e-mail, com suporte a mensagens personalizadas ou em massa, e envio de imagens e arquivos.
 
 ---
-##✅ Funcionalidades
+## ✅ Funcionalidades
 
 - Envio de mensagens individuais (WhatsApp e e-mail)
 - Envio da mesma mensagem/imagem/arquivo para todos os contatos
@@ -14,7 +14,7 @@ Um projeto em Python para envio automatizado de mensagens via WhatsApp Web ou e-
 - Interface de linha de comando (CLI)
 - Leitura de contatos a partir de um arquivo .csv
 ---
-##📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 <pre><code> 
   auto_mensageiro/ 
@@ -30,13 +30,13 @@ Um projeto em Python para envio automatizado de mensagens via WhatsApp Web ou e-
         └── formatadores.py</code></pre>
         
 ---
-##⚙️ Requisitos Básicos
+## ⚙️ Requisitos Básicos
 
 - Python 3.8 ou superior
 - Google Chrome ou Microsoft Edge instalado
 - Conta de e-mail com acesso a senha de aplicativo (Gmail, por exemplo)
 ---
-##🧪 Instalação
+## 🧪 Instalação
 
 - Clone este repositório:
 <code>
@@ -54,7 +54,7 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 
 ---
-#🛠️ Configuração
+## 🛠️ Configuração
 
 No arquivo config.py, adicione seus dados de e-mail:
 <code>
@@ -63,12 +63,12 @@ EMAIL_PASSWORD = "sua_senha_app"
 </code>
 
 ---
-##⚠️ Importante: Use uma senha de aplicativo (como a gerada pelo Gmail) para autenticação.
+## ⚠️ Importante: Use uma senha de aplicativo (como a gerada pelo Gmail) para autenticação.
 
 Esse arquivo já está no .gitignore, então não será enviado ao GitHub.
 
 ---
-##🗂️ Formato do arquivo CSV (individual)
+## 🗂️ Formato do arquivo CSV (individual)
 
 Arquivo: data/contatos.csv
 <code>
@@ -79,7 +79,7 @@ Maria Souza,+5581888888888,maria@email.com,"Bom dia!",caminho/imagem2.jpg;caminh
 As colunas mensagem e imagem podem ou não estar entre aspas. Separe múltiplos arquivos com |.
 
 ---
-##▶️ Como Usar
+## ▶️ Como Usar
 
 No terminal, execute:
 <code>
@@ -99,12 +99,12 @@ Após isso, poderá escolher entre:
 2. Enviar mesma mensagem/imagem para todos
 
 ---
-##🤝 Contribuições
+## 🤝 Contribuições
 
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request 😄
 
 ---
-##🛡️ Licença
+## 🛡️ Licença
 
 Este projeto está licenciado sob a Licença MIT.
 
