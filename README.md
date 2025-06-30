@@ -26,6 +26,7 @@ auto_mensageiro/
 ├── config.py             # Dados de login (NÃO subir para o GitHub)
 ├── requirements.txt      # Dependências do projeto
 ├── README.md             # Instruções e documentação
+├── .gitignore            
 ├── data/
 │   └── contatos.csv      # Arquivo de exemplo com os contatos
 └── utils/
