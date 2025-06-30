@@ -88,9 +88,9 @@ Esse arquivo já está no `.gitignore`, então não será enviado ao GitHub.
 Arquivo: `data/contatos.csv`
 
 ```csv
-nome,numero,email,mensagem,imagem
-João Silva,+5581999999999,joao@email.com,"Olá João!",caminho/imagem1.jpg
-Maria Souza,+5581888888888,maria@email.com,"Bom dia!",caminho/imagem2.jpg;caminho/arquivo.pdf
+nome,numero,email,mensagem,imagem,anexos
+João Silva,+5581999999999,joao@email.com,"Olá João!",caminho/imagem1.jpg,caminho/arquivo.pdf
+Maria Souza,+5581888888888,maria@email.com,"Bom dia!",caminho/imagem2.jpg,"caminho/arquivo2.docx;caminho/arquivo3.xlsx"
 ```
 
 > As colunas **mensagem** e **imagem** podem ou não estar entre aspas. Separe múltiplos arquivos com `|`.
