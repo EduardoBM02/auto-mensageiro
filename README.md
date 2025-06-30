@@ -90,10 +90,11 @@ Arquivo: `data/contatos.csv`
 ```csv
 nome,numero,email,mensagem,imagem,anexos
 João Silva,+5581999999999,joao@email.com,"Olá João!",caminho/imagem1.jpg,caminho/arquivo.pdf
-Maria Souza,+5581888888888,maria@email.com,"Bom dia!",caminho/imagem2.jpg,"caminho/arquivo2.docx;caminho/arquivo3.xlsx"
+Maria Souza,81888888888,maria@email.com,"Bom dia!",caminho/imagem2.jpg,"caminho/arquivo2.docx;caminho/arquivo3.xlsx"
+Lucas Costa,55 (81) 97777-7777,lucas@email.com,"Segue os documentos solicitados.",imgs/lucas.png,
 ```
 
-> As colunas **mensagem** e **imagem** podem ou não estar entre aspas. Separe múltiplos arquivos com `|`.
+> As colunas **mensagem** e **imagem** podem ou não estar entre aspas. Separe múltiplos arquivos com `;`.
 
 ---
 
